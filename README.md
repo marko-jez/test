@@ -1,0 +1,2 @@
+# test
+Samostalno postavljanje gita
